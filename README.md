@@ -7,13 +7,6 @@ The goal is to predict whether a customer will churn or not.
 
 ---
 
-## 📂 Dataset
-
-* يحتوي على معلومات العملاء (tenure, charges, contract, ...)
-* Target: Churn (Yes / No)
-
----
-
 ## 🔍 EDA (Exploratory Data Analysis)
 
 Key insights:
